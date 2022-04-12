@@ -9,3 +9,6 @@ This series of Getting Started posts on Conceptual Classics will help uncover th
 This repo has links to all the Kaggle posts.
 
 Happy Kaggling!!
+
+### Basic Concepts
+* [Overfitting & Underfitting](https://www.kaggle.com/discussions/getting-started/318365)
