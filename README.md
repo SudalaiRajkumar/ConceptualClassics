@@ -12,4 +12,6 @@ Happy Kaggling!!
 
 ### Basic Concepts
 * [Overfitting & Underfitting](https://www.kaggle.com/discussions/getting-started/318365)
+* [Cross Validation](https://www.kaggle.com/discussions/getting-started/318859)
 * [Missing Values](https://www.kaggle.com/discussions/getting-started/318659)
+
